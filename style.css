@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.japan {
+width: 66px;
+ position: relative;
+}
+
+.tekstik {
+ position: absolute;
+ bottom: 202px;
+ right:222px;
+ font-size: 40px;
+ font-style: italic;
+ color: white;
+}
+
+.pomogite {
+background-color: #A60000;
+}
